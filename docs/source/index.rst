@@ -6,7 +6,7 @@ Welcome to ITU Databees's documentation!
 :Members:
 
    * Batuhan Faik Derinbay
-   * Member 2
+   * Zeynep Yetiştiren
    * Member 3
    * Member 4
    * Member 5
